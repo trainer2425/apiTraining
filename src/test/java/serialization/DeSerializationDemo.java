@@ -10,6 +10,8 @@ public class DeSerializationDemo {
 
 	public static void main(String[] args) {
 		
+		// Adding this under version management
+		
 		RestAssured.baseURI = "https://rahulshettyacademy.com";
 		
 		GetPlace place = given().queryParam("key", "qaclick123")
