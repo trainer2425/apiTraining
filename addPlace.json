@@ -1,0 +1,17 @@
+{
+  "location": {
+    "lat": -99.383494,
+    "lng": 99.427362
+  },
+  "accuracy": 50,
+  "name": "API Training course - New",
+  "phone_number": "(+91) 983 893 3937",
+  "address": "J P Nagar, Bangalore",
+  "types": [
+    "REST API",
+    "POSTMAN",
+    "REST ASSURED"
+  ],
+  "website": "http://automationtesting.com",
+  "language": "English-IN"
+}
