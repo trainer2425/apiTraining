@@ -1,3 +1,4 @@
 Hello
 I am uploading this to Jira.
+Exploring git conflict issue
 I am trying to add my code
