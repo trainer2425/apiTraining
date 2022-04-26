@@ -23,7 +23,7 @@ public class SerializationDemo {
 		p.setWebsite("http://google.com");
 		p.setLanguage("English-IN");
 		
-		List<String> myList = new ArrayList();
+		List<String> myList = new ArrayList<String>();
 		myList.add("POSTMAN");
 		myList.add("REST API");
 		myList.add("GitHub");
